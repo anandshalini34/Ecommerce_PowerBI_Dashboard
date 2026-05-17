@@ -7,11 +7,17 @@ This project demonstrates an end-to-end Power BI workflow from importing raw CSV
 🚀 Features
 
 📥 Data Import — Loaded raw ecommerce data from CSV files into Power BI Desktop
+
 🔄 Power Query (ETL) — Cleaned and transformed data using Power Query Editor
+
 📐 Data Modelling — Established relationships between tables for accurate analysis
+
 🧮 DAX Measures — Created custom calculated columns and measures for KPIs
+
 📈 Interactive Visuals — Charts, graphs, and KPI cards for quick insights
+
 🎛️ Filters & Slicers — Dynamic filtering by region, category, time period, and more
+
 💡 Business Insights — Trend analysis, top-performing products, and revenue breakdown
 
 
