@@ -2,7 +2,7 @@
 An interactive and insightful Ecommerce Sales Dashboard built using Microsoft Power BI, designed to analyze and visualize key business metrics from raw sales data.
 
 📊 Project Overview
-This project demonstrates an end-to-end Power BI workflow — from importing raw CSV data to building a fully interactive dashboard with filters, slicers, and dynamic visuals. The dashboard provides actionable insights into ecommerce sales performance, helping stakeholders make data-driven decisions.
+This project demonstrates an end-to-end Power BI workflow from importing raw CSV data to building a fully interactive dashboard with filters, slicers, and dynamic visuals. The dashboard provides actionable insights into ecommerce sales performance, helping stakeholders make data-driven decisions.
 
 🚀 Features
 
