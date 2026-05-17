@@ -22,28 +22,47 @@ This project demonstrates an end-to-end Power BI workflow from importing raw CSV
 
 
 🛠️ Tools & Technologies
+
 ToolPurposeMicrosoft Power BI DesktopDashboard creation & data visualizationPower QueryData cleaning & transformationDAX (Data Analysis Expressions)Calculated measures & KPIsCSV FilesSource data
 
+
 📁 Project Structure
+
 ecommerce-powerbi-dashboard/
+
 │
 ├── data/
+
 │   ├── orders.csv
+
 │   └── details.csv
+
 │
-├── Ecommerce_Dashboard.pbix    # Main Power BI file
+├── Ecommerce_Dashboard.pbix 
+# Main Power BI file
+
 └── README.md
+
 
 📌 Key KPIs Tracked
 
+
 💰 Total Sales Amount
+
 📦 Total Quantity Sold
+
 📉 Total Profit
+
 🔢 Average Order Value (AOV)
+
 🗺️ Sales by State / Region
+
 🛍️ Sales by Category & Sub-Category
+
 📅 Monthly Profit Trends
+
 👤 Top Customers by Revenue
+
 
 
 📷 Dashboard Preview
